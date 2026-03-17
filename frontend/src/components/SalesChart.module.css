@@ -1,0 +1,55 @@
+.chartContainer {
+    height: 400px;
+    width: auto;
+    margin-top: 20px;
+    padding: 32px 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.chartTitle {
+    margin-bottom: 20px;
+}
+
+.tooltip {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.tooltipTitle {
+    font-weight: bold;
+    margin: 0 0 10px 0;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+.tooltipOrders {
+    margin: 0 0 10px 0;
+    color: #82ca9d;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.tooltipRevenue {
+    margin: 0 0 5px 0;
+    color: #8884d8;
+    font-weight: bold;
+}
+
+.categoryHeader {
+    margin: 10px 0 5px 0;
+    font-weight: bold;
+    font-size: 14px;
+    color: #555;
+}
+
+.categoryRow {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    margin: 2px 0;
+}

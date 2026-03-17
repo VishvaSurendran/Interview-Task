@@ -1,0 +1,9 @@
+# Build outputs
+dist/
+build/
+
+# OS files
+.DS_Store
+
+.env
+node_modules
